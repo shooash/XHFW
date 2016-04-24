@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XHFW3</string>
+    <string name="hello_world">Hello world!</string>
+
+	<!-- Gravity -->
+    <string name="option_gravity_1">Top Left Corner</string>
+    <string name="option_gravity_2">Top Center</string>
+    <string name="option_gravity_3">Top Right Corner</string>
+    <string name="option_gravity_4">Left Center</string>
+    <string name="option_gravity_5">Center (Default)</string>
+    <string name="option_gravity_6">Right Center</string>
+    <string name="option_gravity_7">Bottom Left Corner</string>
+    <string name="option_gravity_8">Bottom Center</string>
+    <string name="option_gravity_9">Bottom Right Corner</string>
+	
+	<!-- Drag & Move Bar -->
+    <string name="dnm_title">Drag To Move</string>
+    <string name="dnm_transparency">Transparency</string>
+    <string name="dnm_close_app">Close Window</string>
+    <string name="dnm_minimize">Minimize App</string>
+    <string name="dnm_snap_window">Snap Window</string>
+    <string name="dnm_snap_window_sub1">Snap (Top)</string>
+    <string name="dnm_snap_window_sub2">Snap (Bottom)</string>
+    <string name="dnm_snap_window_sub3">Snap (Left)</string>
+    <string name="dnm_snap_window_sub4">Snap (Right)</string>
+    <string name="dnm_snap_window_sub7">Snap (Bottom Left)</string>
+    <string name="dnm_snap_window_sub6">Snap (Top Right)</string>
+    <string name="dnm_snap_window_sub5">Snap (Top Left)</string>
+    <string name="dnm_snap_window_sub8">Snap (Bottom Right)</string>
+    <string name="dnm_minimize_notif_title">Restore %1$s</string>
+    <string name="dnm_minimize_notif_summary">This floating app has been minimized</string>
+    
+</resources>
